@@ -1,0 +1,103 @@
+body {
+    background-image: url("../images/fondo.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.morado {
+    color: blueviolet;
+}
+
+#latabla {
+    align-items: center;
+    align-content: center;
+    font-family: 'Liu Jian Mao Cao', cursive;
+    margin: 10px auto;
+    box-sizing: border-box 60%;
+}
+
+table {
+    border-style: dashed;
+    margin: 10px auto;
+}
+
+.baner {
+    background-color: black;
+    padding: 5px;
+    margin: 0px auto;
+}
+
+h1 {
+    font-family: 'Spicy Rice', cursive;
+    font-size: 70pt;
+    text-align: center;
+    color: blueviolet;
+
+}
+
+table {
+    padding: 5px;
+    border: solid 2px;
+    width: 80%;
+}
+
+h2 {
+    color: brown;
+
+    font-family: 'Spicy Rice', cursive;
+}
+
+#parrafouno {
+    text-align: justify;
+    color: darkmagenta;
+
+}
+
+#parrafodos {
+    text-align: justify
+}
+
+div {
+    border-radius: 20px;
+    margin: auto 20px;
+    padding: 10px;
+    border: solid rebeccapurple
+}
+
+.imagenes {
+    border-radius: 5%;
+    border: solid royalblue
+}
+
+#lista {
+    padding: 5px;
+    border-left: solid royalblue 5px;
+}
+
+ul {
+    box-sizing: border-box 40%;
+}
+
+.azul {
+    color: blue;
+}
+
+
+td {
+    padding: 5px;
+    border: solid tomato;
+    background-color: hotpink;
+}
+
+th {
+    background-color: khaki;
+    border: solid green;
+}
+
+iframe {
+    border-radius: 10px;
+    border: solid greenyellow
+}
